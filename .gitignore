@@ -1,0 +1,5 @@
+
+.env
+.idea
+/4_sqldb_tshirts/__pycache__
+/4_sqldb_tshirts/.idea
