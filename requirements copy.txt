@@ -1,0 +1,20 @@
+pip install langchain[llms]
+pip install langchain_community
+pip install google-generativeai
+pip install python-dotenv
+pip install openai
+pip install ipywidgets
+
+
+
+pip install langchain
+pip install python-dotenv
+pip install streamlit
+pip install tiktoken
+pip install faiss-cpu
+pip install protobuf
+pip install langchain_experimental
+pip install mysql-connector-python
+pip install pymysql
+pip install sentence-transformers
+pip install chromadb
